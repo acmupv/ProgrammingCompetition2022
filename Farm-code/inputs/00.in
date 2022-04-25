@@ -1,0 +1,17 @@
+#####
+##o##
+O#ooO
+OoOoO
+
+0 0
+4
+
+mv 1 3
+wt
+mv 0 -2
+sd
+mv 0 2
+pk
+mv -1 0
+sd
+pk

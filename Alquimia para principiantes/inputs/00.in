@@ -1,0 +1,15 @@
+3
+
+belladonna 5
+mandragora 2
+loto 3
+muerdago 15
+tejo 7
+albahaca 9
+jazmin 9
+
+muerdago albahaca
+muerdago tejo
+belladonna muerdago
+mandragora belladonna
+muerdago jazmin

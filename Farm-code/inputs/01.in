@@ -1,0 +1,32 @@
+#####
+#####
+#####
+#####
+#####
+
+2 2
+4
+
+mv 0 0
+wt
+mv 0 1
+sd
+mv 0 -1
+sd
+mv 0 -1
+sd
+mv 0 1
+pk
+wt
+mv 0 1
+wt
+pk
+mv 0 -1
+wt
+pk
+mv 0 -1
+wt
+pk
+mv 0 -1
+wt
+pk
