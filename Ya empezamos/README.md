@@ -5,9 +5,11 @@ Como ha borrado todos los diálogos originales y no queremos volver a escribirlo
 Por ello, necesitamos que encuentres la función matemática que logra la encriptación de los mensajes de los granjeros para poder desencriptarlos y que el juego vuelva a ser comprensible.
 
 Restricciones espaciales:
+```
 Longitud máxima: 2^9 caracteres
 Input: caracteres ASCII imprimibles y extendidos (no de control)
 Output: sólo caracteres ASCII imprimibles
+```
 
 Ejemplos de input: 
 ```
