@@ -9,8 +9,8 @@ Longitud máxima: 2^9 caracteres
 Input: caracteres ASCII imprimibles y extendidos (no de control)
 Output: sólo caracteres ASCII imprimibles
 
-Ejemplos de input:
-'''
+Ejemplos de input: 
+'''python
 Hfnos ~w{vo		⇾ Hello world
 Hfnosd}vzun		⇾ Hello_world
 Bfpymsm||| m PS^ d*(~-z*+(.( d437-=3?5<<M		→ Benvinguts a ACM Programming Competition!
